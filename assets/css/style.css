@@ -91,6 +91,12 @@ a:hover {
   background-size: cover;
   background-position: center center;
 }
+img {
+   width: 350px;
+   height: 350px;
+   border-radius: 50%;
+}
+ sumber: https://www.posciety.com/cara-membuat-gambar-bulat-melingkar-bundar-html-css/
 
 @media (max-width: 1024px) {
   .bg-image {
